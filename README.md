@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adhaar Sharma</h1>
+<h1 align="right">Hi 👋, I'm Adhaar Sharma</h1>
 <h3 align="center">I am a passionate software developer who has experience with C++, Python and Java. I have worked with various technologies like Machine Learning, Deep Learning, API Frameworks. I am an constantly looking to learn new things. Playing Guitar and Drawing are my favorite pastimes.</h3>
 
 - 🔭 I’m currently working on **Face Mask Detection**
