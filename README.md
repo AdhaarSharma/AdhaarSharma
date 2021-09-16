@@ -1,5 +1,5 @@
 <h1 align="left">Greetings!</h1>
-<h3 align="left">Welcome to Adhaar's Public Workspace!</h3>
+<h1 align="left">Welcome to Adhaar's Public Workspace!</h1>
 
 - 🔭 I’m currently working on **Face Mask Detection**
 
