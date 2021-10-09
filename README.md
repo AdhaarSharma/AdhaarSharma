@@ -1,9 +1,9 @@
 <h1 align="left">Greetings!</h1>
 <h2 align="left">Welcome to Adhaar's Public Workspace!</h2>
 
-- 🔭 I’m currently working on **Face Mask Detection**
+- 🔭 I’m currently working on **Music Genre Classification**
 
-- 🌱 I’m currently learning **Tensorflow, MySQL**
+- 🌱 I’m currently learning **Java, Android Development, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdhaarSharma](https://github.com/AdhaarSharma)
 
