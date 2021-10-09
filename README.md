@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdhaarSharma](https://github.com/AdhaarSharma)
 
-- 💬 Ask me about **C++, Python, Data Structures and Algorithms**
+- 💬 Ask me about **C++, Python, Data Structures and Algorithms, Machine Learning and Cloud Computing**
 
 - 📫 How to reach me **adhaar@hotmail.com**
 
