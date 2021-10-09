@@ -1,7 +1,7 @@
 <h1 align="left">Greetings!</h1>
 <h2 align="left">Welcome to Adhaar's Public Workspace!</h2>
 
-- 🔭 I’m currently working on **Music Genre Classification**
+- 🔭 I’m currently working on **Music Genre Classification Application**
 
 - 🌱 I’m currently learning **Java, Android Development, MySQL**
 
